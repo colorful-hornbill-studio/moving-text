@@ -34,9 +34,7 @@ Create text to be moving with Java.
 
 1. Open project ```moving-text``` in NetBeans IDE.
 
-### Previews
-
-#### Screenshots
+### Screenshots
 
 ![Moving Text Screenshot](https://justanaivedreamer.files.wordpress.com/2019/03/capture-1-1.png)
 
