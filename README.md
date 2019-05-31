@@ -1,4 +1,4 @@
-# moving-text
+# Moving Text
 
 ## Description
 
