@@ -9,17 +9,16 @@ Create text to be moving with Java.
 1. [Description](#description)
 2. [Table of Contents](#table-of-contents)
 3. [Getting Started](#getting-started)
-   - [Prerequisites](#prerequisites)
+   - [Requirements](#Requirements)
    - [Installation](#installation)
    - [Usage](#usage)
-   - [Previews](#previews)
-     - [Screenshots](#screenshots)
+   - [Screenshots](#screenshots)
 4. [Credits](#credits)
 5. [License](#license)
 
 ## Getting Started
 
-### Prerequisites
+### Requirements
 
 1. JRE 8
 2. JDK 8
